@@ -1,14 +1,21 @@
-# Pandas CSV Reader Basic Analysis
+NumPy Data Explorer
 
-This project is developed as part of my **internship at [Syntecxhub](https://www.syntecxhub.com)**.  
-It demonstrates basic CSV reading and analysis using Python and Pandas.
+This project is developed as part of my internship at Syntecxhub
+.
+It demonstrates basic data exploration and analysis using Python and NumPy.
 
-## Features
-- Read CSV files
-- Basic data analysis
-- Summarization of data
+Features
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/rohityadav383969-lgtm/Syntecxhub_-Pandas-CSV-reader-basic-analysiss.git
+Load numerical data using NumPy
+
+Perform basic array operations
+
+Statistical analysis (mean, sum, min, max)
+
+Data exploration using NumPy functions
+
+Technologies Used
+
+Python
+
+NumPy
